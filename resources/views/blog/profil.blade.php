@@ -29,7 +29,7 @@
 </nav>
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center">
-    <img src="img/fazrin.png" width="15%" class="rounded mx-auto d-block img-thumbnail" >
+    <img src="img/saya.jpeg" width="20%" class="rounded mx-auto d-block img-thumbnail" >
     <h1 class="display-4">Yashinta fazrin</h1>
     <p class="lead">selamat datang di blog saya <br>berikut ini profil pribadi singkat saya</p>
   </div>
